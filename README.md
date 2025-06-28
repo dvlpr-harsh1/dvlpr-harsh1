@@ -1,90 +1,52 @@
-<h1 align="center">Hi 👋, I'm Harish Rajput</h1>
-<h3 align="center">Flutter Developer 💙 | Firebase Enthusiast ☁️ | UI/UX-Focused Builder 🇮🇳</h3>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Flutter+Full-Stack+Dev;Firebase+Cloud+Expert;Designing+Code+with+Purpose" alt="Typing SVG" />
-</p>
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-## 🚀 About Me
+###
 
-- 📱 Building sleek, scalable mobile apps with Flutter  
-- ☁️ Firebase-first mindset: Firestore, Realtime DB, Auth, Notifications  
-- 🎯 Passionate about clean architecture & pixel-perfect UI  
-- 🌱 Currently learning **Next.js**, **AI APIs**, and **App Store Deployment**  
-- 💬 Ask me about **Flutter, Firebase, UI/UX, or Backend Integration**  
-- 🤓 Fun Fact: I enjoy debugging more than writing new code  
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
----
+###
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github" />
-</p>
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dvlpr-harsh1&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvlpr-harsh1&theme=tokyonight" height="160px" />
-</p>
-
----
-
-## 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvlpr-harsh1&theme=tokyo-night" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="mailto:harish.dev.harsh9730@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/harish-rajput93072">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat" />
-  </a>
-  <a href="[http://portfolio-9730.web.app">
-    <img src="https://img.shields.io/badge/-Portfolio-000?logo=vercel&style=flat" />
-  </a>
-</p>
-
----
-
-## 🧠 Featured Projects
-
-- 🏋️‍♂️ [GrindCore – Smart Gym App](https://github.com/dvlpr-harsh1/grindcore)  
-  *Flutter + Firebase based gym tracker with push notifications, profile management & workouts*
-
-- 🧑‍💻 [Portfolio Site](https://github.com/dvlpr-harsh1/portfolio)  
-  *Personal portfolio built with Flutter Web and hosted via GoDaddy*
-
-- 📱 [EagleLoan.finance](https://github.com/dvlpr-harsh1/eagleloan)  
-  *Loan management system using Firestore & Firebase Auth*
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dvlpr-harsh1&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-> ⚙️ *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=100&section=footer"/>
-</p>
+###
