@@ -46,16 +46,16 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:harish.rajput@example.com">
+  <a href="mailto:harish.dev.harsh9730@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/harish-rajput93072">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat" />
   </a>
   <a href="https://twitter.com/yourusername">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat" />
   </a>
-  <a href="https://github.com/dvlpr-harsh1/portfolio">
+  <a href="[http://portfolio-9730.web.app">
     <img src="https://img.shields.io/badge/-Portfolio-000?logo=vercel&style=flat" />
   </a>
 </p>
