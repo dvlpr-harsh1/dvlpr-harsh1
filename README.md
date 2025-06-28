@@ -29,20 +29,34 @@
  <div align="center">   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> </div>
  
 ---
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dvlpr-harsh1&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvlpr-harsh1&theme=tokyonight" height="160px" />
-</p>
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dvlpr-harsh1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=4ade80&text_color=ffffff" width="48%" />
+  
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvlpr-harsh1&hide_border=true&background=0D1117&ring=6366f1&fire=ef4444&currStreakLabel=facc15&sideLabels=38bdf8&sideNums=ffffff&dates=ffffff" width="48%" />
+
+</div>
+
+<br/>
+
+<!-- GitHub Top Languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvlpr-harsh1&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=ffffff&langs_count=6" width="40%" />
+</div>
+
 
 ---
 
 ## 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvlpr-harsh1&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvlpr-harsh1&custom_title=Harish%20Rajput%20-%20Activity%20Graph&bg_color=0d1117&color=22c55e&line=16a34a&point=4ade80&area=true&area_color=14532d&title_color=cccccc&hide_border=true" />
 </p>
+
 
 ---
 
