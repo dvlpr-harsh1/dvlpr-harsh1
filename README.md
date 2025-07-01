@@ -37,7 +37,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dvlpr-harsh1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=4ade80&text_color=ffffff" width="48%" />
   
   <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvlpr-harsh1&hide_border=true&background=0D1117&ring=6366f1&fire=ef4444&currStreakLabel=facc15&currStreakNum=cccccc&sideLabels=38bdf8&sideNums=ffffff&dates=ffffff" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=dvlpr-harsh1&hide_border=true&background=0D1117&ring=6366f1&fire=ef4444&currStreakLabel=facc15&currStreakNum=cccccc&sideLabels=38bdf8&sideNums=ffffff&dates=ffffff" width="48%" alt="GitHub Streak" />
+
 
 
 </div>
